@@ -1,2 +1,2 @@
 # browser-extension-ui
-Simple frontend browser extenstions UI 
+Simple frontend browser extentions UI 
